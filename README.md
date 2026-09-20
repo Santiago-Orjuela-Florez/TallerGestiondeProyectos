@@ -1,4 +1,4 @@
-# Tourism Weather Recommender API 🌦️🎒
+# Tourism Weather Recommender API 
 
 Este es un microservicio desarrollado con FastAPI para una empresa de turismo. El sistema consume datos meteorológicos y recomienda actividades a los viajeros según el pronóstico. Además, implementa reglas de seguridad críticas para proteger a los turistas en condiciones climáticas extremas.
 
